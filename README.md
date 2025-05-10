@@ -5,7 +5,7 @@ Welcome to my **Certifications Repository**! This repository contains all the ce
 ## 📜 List of Certifications
 | Certification | Issued By | Date |
 |--------------|-----------|------|
-| Full Stack Web Development | Udemy | 2024-05-15 |
+| [Full Stack Web Development](https://www.udemy.com/certificate/UC-3b54c456-699c-4bbe-b273-9b0fd91d8d9c/)| Udemy | 2024-05-15 |
 | Generative AI Essentials | LinkdIn | 2024-06-23 |
 | AWS Technical Essentials | Simplilearn | 2024-10-23 |
 | Web Development Internship | Uptricks | 2024-11-24 |
