@@ -11,7 +11,7 @@ Welcome to my **Certifications Repository**! This repository contains all the ce
 | Web Development Internship | Uptricks | 2024-11-24 |
 | Introduction to MongoDb | MongoDB | 2024-12-08 |
 | [Python for Machine Learning](https://www.kaggle.com/learn/certification/ullaas/python) | Kaggel | 2025-01-30 |
-| Intro to Machine Learning | Kaggel | 2025-01-31 |
+| [Intro to Machine Learning](https://www.kaggle.com/learn/certification/ullaas/intro-to-machine-learning) | Kaggel | 2025-01-31 |
 | [Data Science Fundamentals](https://moonshot.scaler.com/s/li/XuIfhyDjfh) | Scaler Topics | 2025-02-04 |
 | Data Analytics Job Simulation | Deloitte | 2025-02-07 |
 
